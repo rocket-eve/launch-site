@@ -2,9 +2,13 @@
 
 Check here for the latest updates on the status of the Rocket EVE 36.389 launch.
 
-### 26 April 2023 - 4:19 PM
+### 28 April 2023
 
-Horizontal (sequence) tests were completed. We're on schedule for launch on May 3rd.
+The rocket motors (Terrier and Black Brant) have been mounted to the launch rail.  The experiment vacuum pump cart and payload have also been mounted to the rail. The last big test before launch is the Vertical Test that is scheduled for Monday May 1.
+
+### 26 April 2023
+
+Horizontal (sequence) tests were completed. We're __on schedule__ for __launch on May 3rd__.
 
 ### 25 April 2023
 

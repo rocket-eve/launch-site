@@ -11,6 +11,7 @@ theme:
 nav: 
   - Launch Updates: index.md
   - About: about.md
+  - Media: media.md
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji

@@ -4,7 +4,7 @@ Check here for the latest updates on the status of the Rocket EVE 36.389 launch.
 
 ### 2 May 2023
 
-All is a __Go__ for launch on __May 3__.  We have approval from NASA, WSMR, and Navy for launch on May 3 with a window of 18:10-18:40 UT (12:30 PM - 12:40 PM MDT).  The weather forecast is looking good too.
+All is a __Go__ for launch on __May 3__.  We have approval from NASA, WSMR, and Navy for launch on May 3 with a window of 18:10-18:40 UT (12:10 PM - 12:40 PM MDT).  The weather forecast is looking good too.
 
 NASA TV will show the launch with the following link active starting at 11:45 AM MDT:
 [https://video.ibm.com/channel/nasa-tv-wallops](https://video.ibm.com/channel/nasa-tv-wallops)

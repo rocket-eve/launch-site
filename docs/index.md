@@ -2,6 +2,12 @@
 
 Check here for the latest updates on the status of the Rocket EVE 36.389 launch.
 
+### 3 May 2023 - 8:41 AM MDT
+
+MEGS CCD detectors have been cooled down to -50C, and final arming of the rocket motors have started. The Sun is very active today, with already 5 M-class flares this morning. For calibration purposes, we intend to launch when the Sun is not flaring. That is, we may hold the launch by 5-10 minutes if a flare is about to peak at the launch time.
+
+![Flare-image](img/goes_xray_flux.png)
+
 ### 2 May 2023
 
 All is a __Go__ for launch on __May 3__.  We have approval from NASA, WSMR, and Navy for launch on May 3 with a window of 18:10-18:40 UT (12:10 PM - 12:40 PM MDT).  The weather forecast is looking good too.

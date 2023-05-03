@@ -6,7 +6,8 @@ Check here for the latest updates on the status of the Rocket EVE 36.389 launch.
 
 MEGS CCD detectors have been cooled down to -50C, and final arming of the rocket motors have started. The Sun is very active today, with already 5 M-class flares this morning. For calibration purposes, we intend to launch when the Sun is not flaring. That is, we may hold the launch by 5-10 minutes if a flare is about to peak at the launch time.
 
-![Flare-image](img/goes_xray_flux.png)
+
+[![Flare-image](img/goes_xray_flux.png)](https://www.swpc.noaa.gov/products/goes-x-ray-flux)
 
 ### 2 May 2023
 

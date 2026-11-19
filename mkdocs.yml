@@ -10,12 +10,13 @@ theme:
   favicon: img/rocket-takeoff-fill.svg  
 nav: 
   - Launch Updates: index.md
+  - 36.389: 36.389.md
   - About: about.md
   - Media: media.md
 markdown_extensions:
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
       options:
         custom_icons:
           - overrides/.icons

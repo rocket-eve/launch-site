@@ -1,4 +1,4 @@
-### Check out what NASA has to say about the EVE sounding rocket program
+### Check out what NASA has to say about the EVE sounding rocket program.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Watching the Sun 24/7 can be tough on a telescope – but NASA’s Solar Dynamics Observatory has a trusty sidekick to keep its data in shape! <a href="https://t.co/W5Y7UnGMc6">pic.twitter.com/W5Y7UnGMc6</a></p>&mdash; NASA Sun &amp; Space (@NASASun) <a href="https://twitter.com/NASASun/status/1653081887005351936?ref_src=twsrc%5Etfw">May 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 

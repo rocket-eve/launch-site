@@ -7,3 +7,7 @@ The latest updates on the status of the NASA 36.406 solar EUV calibration rocket
 
 The team is at the White Sands Missile Range and has begun preparations for the 36.406 sounding rocket launch.
 
+### 20 November 2026
+
+This is a test update from WZM.
+

@@ -1,6 +1,17 @@
-# Launch Updates ![NASA 36.406 mission patch](img/eve-36406-patch.png){ height="72" style="vertical-align: middle; margin-left: 0.4em;" }
+# Launch Updates
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem;" markdown>
+<div style="flex: 1 1 10rem;" markdown>
 
 The latest updates on the status of the NASA 36.406 solar EUV calibration rocket launch will be shared below. The launch is scheduled for December 11, 2026.
+
+</div>
+<div style="flex: 0 1 20rem;" markdown>
+
+![NASA 36.406 mission patch](img/eve-36406-patch.png){ style="width: 400px; max-width: 100%;" }
+
+</div>
+</div>
 
 ### 20 November 2026
 

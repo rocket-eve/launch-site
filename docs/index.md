@@ -15,7 +15,7 @@ The latest updates on the status of the NASA 36.406 solar EUV calibration rocket
 
 ### 20 November 2026
 
-All of the rocket subsystems for NASA 36.406 have been integrated and we're preparing to do sequence tests in preparation for environmental tests next week.
+All of the rocket subsystems for NASA 36.406 have been integrated, sequence tests completed with minimal notes, GPS rollout completed, payload is back in I-lab and will be pumping down through the weekend in preparation for environmental tests next week.
 
 ### 18 November 2026
 

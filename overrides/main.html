@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{#
+  Same as Material's site_nav block (mkdocs-material 9.7), plus a picture of
+  the 36.406 rocket under the left-hand menu. Clicking it opens NASA's full
+  sounding rocket chart.
+#}
+{% block site_nav %}
+  {% if nav %}
+    {% if page.meta and page.meta.hide %}
+      {% set hidden = "hidden" if "navigation" in page.meta.hide %}
+    {% endif %}
+    <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" {{ hidden }}>
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          {% include "partials/nav.html" %}
+          <figure style="margin: 2rem 0 0 0.6rem; max-width: 10rem; text-align: center;">
+            <a href="{{ 'img/sounding-rocket-types-chart.webp' | url }}" title="Open NASA's full sounding rocket chart">
+              <img src="{{ 'img/black-brant-ix.png' | url }}" alt="NASA 36 Black Brant IX sounding rocket" style="width: 44px; height: auto;">
+            </a>
+            <figcaption style="font-size: 0.6rem; line-height: 1.4; color: var(--md-default-fg-color--light); margin-top: 0.5rem;">
+              36.406 flies on a NASA 36 Black Brant IX (Terrier–Black Brant).<br>Image: NASA
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+  {% if "toc.integrate" not in features %}
+    {% if page.meta and page.meta.hide %}
+      {% set hidden = "hidden" if "toc" in page.meta.hide %}
+    {% endif %}
+    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" {{ hidden }}>
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          {% include "partials/toc.html" %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endblock %}

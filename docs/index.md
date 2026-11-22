@@ -13,6 +13,12 @@ The latest updates on the status of the NASA 36.406 solar EUV calibration rocket
 </div>
 </div>
 
+### 22 November 2026
+
+Science team took a trip to check out potential landing sites.
+
+![Science team on the white sand dunes](img/landing-sites-2026-11-22.jpg){ style="width: 13rem; max-width: 100%;" }
+
 ### 21 November 2026
 
 Santa has arrived early in Las Cruces! Perhaps stocking up on green chili before his big journey?

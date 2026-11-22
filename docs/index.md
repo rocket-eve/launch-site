@@ -15,7 +15,7 @@ The latest updates on the status of the NASA 36.406 solar EUV calibration rocket
 
 ### 21 November 2026
 
-The holidays have arrived in Las Cruces!
+Santa has arrived early in Las Cruces! Perhaps stocking up on green chili before his big journey?
 
 ![Holiday tree and reindeer decorations in a Las Cruces plaza](img/holidays-las-cruces-2026-11-21.jpg){ style="width: 13rem; max-width: 100%;" }
 

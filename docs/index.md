@@ -13,6 +13,12 @@ The latest updates on the status of the NASA 36.406 solar EUV calibration rocket
 </div>
 </div>
 
+### 21 November 2026
+
+The holidays have arrived in Las Cruces!
+
+![Holiday tree and reindeer decorations in a Las Cruces plaza](img/holidays-las-cruces-2026-11-21.jpg){ style="width: 13rem; max-width: 100%;" }
+
 ### 20 November 2026
 
 All of the rocket subsystems for NASA 36.406 have been integrated, sequence tests completed with minimal notes, GPS rollout completed, payload is back in I-lab and will be pumping down through the weekend in preparation for environmental tests next week.

@@ -13,6 +13,16 @@ The latest updates on the status of the NASA 36.406 solar EUV calibration rocket
 </div>
 </div>
 
+### 24 November 2026
+
+Post-vibe sequence test went well! Built back up for a successful bend test in the evening.
+
+### 23 November 2026
+
+The rocket went through vibe today. Sequence testing tomorrow but for now all systems appear functional!
+
+![The 36.406 rocket standing upright on the vibration table](img/vibe-test-2026-11-23.jpg){ style="width: 13rem; max-width: 100%;" }
+
 ### 22 November 2026
 
 Science team took a trip to check out potential landing sites.

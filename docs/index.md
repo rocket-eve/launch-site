@@ -8,7 +8,7 @@ The latest updates on the status of the NASA 36.406 solar EUV calibration rocket
 </div>
 <div style="flex: 0 0 auto;" markdown>
 
-![NASA 36.406 mission patch](img/eve-36406-patch.png){ style="width: 200px; max-width: 100%;" }
+[![NASA 36.406 mission patch](img/eve-36406-patch.png){ style="width: 200px; max-width: 100%;" }](img/eve-36406-patch.png){ target="_blank" title="Click to open full size" }
 
 </div>
 </div>
@@ -21,19 +21,19 @@ Post-vibe sequence test went well! Built back up for a successful bend test in t
 
 The rocket went through vibe today. Sequence testing tomorrow but for now all systems appear functional!
 
-![The 36.406 rocket standing upright on the vibration table](img/vibe-test-2026-11-23.jpg){ style="width: 13rem; max-width: 100%;" }
+[![The 36.406 rocket standing upright on the vibration table](img/vibe-test-2026-11-23.jpg){ style="width: 13rem; max-width: 100%;" }](img/vibe-test-2026-11-23.jpg){ target="_blank" title="Click to open full size" }
 
 ### 22 November 2026
 
 Science team took a trip to check out potential landing sites.
 
-![Science team on the white sand dunes](img/landing-sites-2026-11-22.jpg){ style="width: 13rem; max-width: 100%;" }
+[![Science team on the white sand dunes](img/landing-sites-2026-11-22.jpg){ style="width: 13rem; max-width: 100%;" }](img/landing-sites-2026-11-22.jpg){ target="_blank" title="Click to open full size" }
 
 ### 21 November 2026
 
 Santa has arrived early in Las Cruces! Perhaps stocking up on green chili before his big journey?
 
-![Holiday tree and reindeer decorations in a Las Cruces plaza](img/holidays-las-cruces-2026-11-21.jpg){ style="width: 13rem; max-width: 100%;" }
+[![Holiday tree and reindeer decorations in a Las Cruces plaza](img/holidays-las-cruces-2026-11-21.jpg){ style="width: 13rem; max-width: 100%;" }](img/holidays-las-cruces-2026-11-21.jpg){ target="_blank" title="Click to open full size" }
 
 ### 20 November 2026
 
@@ -45,10 +45,10 @@ Pre-Thanksgiving festivities are a go.
 
 The team is at the White Sands Missile Range and has begun preparations for the 36.406 sounding rocket launch.
 
-![Soda cans arranged to spell EVE on a table](img/pre-thanksgiving-2026-11-18.jpg){ style="width: 18rem; max-width: 100%;" }
+[![Soda cans arranged to spell EVE on a table](img/pre-thanksgiving-2026-11-18.jpg){ style="width: 18rem; max-width: 100%;" }](img/pre-thanksgiving-2026-11-18.jpg){ target="_blank" title="Click to open full size" }
 
 ### 10 November 2026
 
 Finished loading the truck, ready to ship to WSMR.
 
-![Team members in the loaded truck](img/truck-loading-2026-11-10.jpg){ style="width: 13rem; max-width: 100%;" }
+[![Team members in the loaded truck](img/truck-loading-2026-11-10.jpg){ style="width: 13rem; max-width: 100%;" }](img/truck-loading-2026-11-10.jpg){ target="_blank" title="Click to open full size" }

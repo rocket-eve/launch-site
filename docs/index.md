@@ -13,6 +13,16 @@ The latest updates on the status of the NASA 36.406 solar EUV calibration rocket
 </div>
 </div>
 
+### 26 November 2026
+
+Science team went out for a traditional thanksgiving feast. Unfortunately it was so tasty we forgot to get the picture before it was mostly gone!
+
+[![Science team at an outdoor restaurant table after the Thanksgiving meal](img/thanksgiving-feast-2026-11-26.jpg){ style="width: 18rem; max-width: 100%;" }](img/thanksgiving-feast-2026-11-26.jpg){ target="_blank" title="Click to open full size" }
+
+### 25 November 2026
+
+Today was Spin Balance and Mass Properties. Had to use some pretty sizeable lead bricks to balance the payload out, but the team got there!
+
 ### 24 November 2026
 
 Post-vibe sequence test went well! Built back up for a successful bend test in the evening.

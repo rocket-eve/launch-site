@@ -15,7 +15,7 @@ The latest updates on the status of the NASA 36.406 solar EUV calibration rocket
 
 ### 26 November 2026
 
-Science team went out for a traditional thanksgiving feast. Unfortunately it was so tasty we forgot to get the picture before it was mostly gone!
+Science team went out for a traditional Thanksgiving feast. Unfortunately, it was so tasty we forgot to get the picture before it was mostly gone!
 
 [![Science team at an outdoor restaurant table after the Thanksgiving meal](img/thanksgiving-feast-2026-11-26.jpg){ style="width: 18rem; max-width: 100%;" }](img/thanksgiving-feast-2026-11-26.jpg){ target="_blank" title="Click to open full size" }
 

@@ -13,6 +13,10 @@ The latest updates on the status of the NASA 36.406 solar EUV calibration rocket
 </div>
 </div>
 
+### 27 November 2026
+
+Completed post-vibe alignments, still meeting requirements!
+
 ### 26 November 2026
 
 Science team went out for a traditional Thanksgiving feast. Unfortunately, it was so tasty we forgot to get the picture before it was mostly gone!
